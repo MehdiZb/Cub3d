@@ -1,0 +1,66 @@
+-10         Nombre d'arguments invalide.
+-11         Deuxieme argument inconnu.
+-50         Probleme lors de l'initialisation du ptr mlx_ptr.
+-51         Probleme lors de l'initialisation du ptr mlx_win.
+-101        Nom du fichier de scene invalide.
+-102        Erreur lors de l'ouverture du fichier.
+-103        Erreur lors de l'allocation memoire du pointeur "cub".
+-104        Erreur lors de la lecture du fichier .cub.
+-105        Ligne vide en debut de fichier .cub.
+-106        Erreur lors de la lecture du fichier .cub (Doublons resolution / format incorrect / resolution egale a 0).
+-107        Erreur dans le fichier .cub.
+-110        Erreur lors de l'allocation memoire du pointeur "map_str".
+-111        Erreur d'allocation memoire sur la liste "map_str".
+-112        Erreur lors de l'allocation memoire de la carte "cub->map".
+-113        Erreur lors de l'allocation memoire d'une ligne de la carte "cub->map".
+-114        Caractere non reconnu dans la carte.
+-115        Carte incorrect (Non fermee).
+-116        Erreur position deja definie. 
+-117        Carte incorrect.
+-118        Fichier cub se termine par une ligne non vide.
+-119        Ligne vide dans la map ou multiple lignes vides a la fin de la map.
+-120        Erreur lors de l'allocation memoire du pointeur "cub->map".
+-121        Erreur lors de l'allocation memoire du pointeur "cub->map".
+-122        Erreur lors de l'allocation memoire du pointeur "cub->mlx".
+-130        Erreur lors de l'allocation memoire du pointeur "cub->spr_tab".
+-200        Erreur fatale. (var cub = NULL).
+-201        Absence de map et/ou map mal definie.
+-202        Absence de position de depart sur la map.
+-203        Resolution non definie.
+-204        rgb sol et/ou plafond non presente dans le fichier de description.
+-205        Texture du sprite non presente dans le fichier de description.
+-206        Texture d'une ou plusieurs orientations de mur non definie.
+-1000       Erreur lors de l'allocation memoire du pointeur "cub->img".
+-1001       Erreur lors de l'allocation memoire d'un pointeur t_img "cub->img".
+-1002       Erreur lors de l'allocation memoire du pointeur "cub->s_ray".
+-1003       Erreur lors de l'allocation memoire d'un pointeur "img_tab".
+-1004       Erreur lors de l'allocation memoire du pointeur "img_texture".
+-1005       Erreur lors du chargament de la texture "nord".
+-1006       Erreur lors du chargament de la texture "est".
+-1007       Erreur lors du chargament de la texture "sud".
+-1008       Erreur lors du chargament de la texture "ouest".
+-1009       Erreur lors du chargament de la texture "sprite".
+-2005       Erreur lors de l'initialisation du tableau de la texture "nord".
+-2006       Erreur lors de l'initialisation du tableau de la texture "est".
+-2007       Erreur lors de l'initialisation du tableau de la texture "sud".
+-2008       Erreur lors de l'initialisation du tableau de la texture "ouest".
+-2009       Erreur lors de l'initialisation du tableau de la texture "sprite".
+-3000       Erreur lors de l'allocation memoire du pointeur "spr_tab".
+-3001       Erreur lors de l'allocation memoire du pointeur "dist_buffer".
+-5000       Erreur lors de la creation ou l'ouverture du fichier BMP.
+-10000		Bonus : Erreur lors de l'allocation memoire du pointeur cub->mm.
+-10001		Bonus : Erreur lors de l'allocation memoire du pointeur cub->mm->img.
+-10501		Bonus : Erreur lors de l'allocation memoire d'un pointeur t_img "cub->mm->img".
+-10503      Bonus : Erreur lors de l'allocation memoire d'un pointeur "mm->img->img_tab".
+-10600		Bonus : Erreur lors de l'allocation memoire du pointeur "cub->hud".
+-10601		Bonus : Erreur lors de l'allocation memoire du pointeur "cub->hud->hud_tex".
+-10602		Bonus : Erreur lors de l'allocation memoire du pointeur "*cub->hud->hud_tex".
+-10605      Bonus : Erreur lors du chargement d'une texture hud.
+-10606      Bonus : Erreur lors de l'initialisation du tableau d'une texture hud.
+-10607      Bonus : Erreur lors de la creation de l'image "cub->hud->hud->img".
+-10609      Bonus : Erreur lors de l'initialisation du tableau "cub->hud->hud".
+-10610      Bonus : Erreur lors de l'allocation memoire du pointeur "cub->hud->hud".
+-10611		Bonus : Erreur lors de l'allocation memoire du pointeur "cub->hud->items".
+-10612		Bonus : Erreur lors de l'allocation memoire du pointeur "cub->hud->weapons_tex".
+-10705      Bonus : Erreur lors du chargement d'une texture weapons.
+-10706      Bonus : Erreur lors de l'initialisation du tableau d'une texture weapons.
