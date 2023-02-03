@@ -8,10 +8,16 @@ Cub3d is a 3D game created in C language, using Raycasting and the Mlx library. 
 
 # Features:
 
-Wall Collision.
+Wall Collision
+
 Minecraft-style HUD.
+
 A beautiful Intervention sniper rifle from the original Call of Duty: Modern Warfare 2
+
 Dangerous enemies that cause damage when they are close to you
+
 Barrel sprite for taking cover
+
 Bonus health that will fully recharge your life points if you walk over it (can only be used once)
+
 Minimap.
