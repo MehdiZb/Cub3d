@@ -2,6 +2,8 @@
 
 Cub3d is a 3D game created in C language, using Raycasting and the Mlx library. The game has a Wolfenstein 3D style.
 
+![Screenshot from 2023-02-03 05-36-25](https://user-images.githubusercontent.com/44801448/216515435-0bca0f2f-08c5-4cb0-87ad-f8618dc62f09.png)
+
 ![Screenshot from 2023-02-03 05-36-35](https://user-images.githubusercontent.com/44801448/216514583-3878c579-f3c1-43d0-a0a0-37b629c067b4.png)
 
 # Features:
