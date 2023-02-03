@@ -10,7 +10,7 @@ Cub3d is a 3D game created in C language, using Raycasting and the Mlx library. 
 
 Wall Collision
 
-Minecraft-style HUD.
+Minecraft-style HUD
 
 A beautiful Intervention sniper rifle from the original Call of Duty: Modern Warfare 2
 
@@ -20,4 +20,8 @@ Barrel sprite for taking cover
 
 Bonus health that will fully recharge your life points if you walk over it (can only be used once)
 
-Minimap.
+Minimap
+
+# Project Grade
+
+![image](https://user-images.githubusercontent.com/44801448/216515773-040ea57f-b3a7-469a-986d-21390d7ed4c4.png)
