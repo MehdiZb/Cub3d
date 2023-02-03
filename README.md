@@ -1,1 +1,15 @@
 # Cub3d
+
+Cub3d is a 3D game created in C language, using Raycasting and the Mlx library. The game has a Wolfenstein 3D style.
+
+![Screenshot from 2023-02-03 05-36-35](https://user-images.githubusercontent.com/44801448/216514583-3878c579-f3c1-43d0-a0a0-37b629c067b4.png)
+
+# Features:
+
+Wall Collision
+Minecraft-style HUD
+A beautiful Intervention sniper rifle from the original Call of Duty: Modern Warfare 2
+Dangerous enemies that cause damage when they are close to you
+Barrel sprite for taking cover
+Bonus health that will fully recharge your life points if you walk over it (can only be used once)
+Minimap.
